@@ -1,0 +1,46 @@
+JSX TO HTML 
+https://transform.tools/html-to-jsx
+
+----------------------------------------------------------------
+NPM 
+npm install axios --save  
+
+npm i react-router-dom --save
+
+----------------------------------------------------------------
+axios --> frontend ile backend haberleşmeyi sağlıyor axios yapısı
+
+chrome clorzilla ve clean master kuruldu...
+
+VS Code Extensions 
+-Auto rename tag 
+-Arrow funtions snippets 
+-Auto close tag 
+-Better Comments 
+-Easy Jquery
+-ES7 + React /Redux-Native snippets
+-HTML css support 
+-Jquery code snippets 
+-Live server 
+-Material Icon Theme 
+-Path intellisene 
+-Tailwind css intelliseneration
+
+
+-props ,context ,redux ,webpack
+
+RouterProduct.jsx rcc yaz tab tab yapınca componenet oluşturur
+
+-props: yapısı a component den veriyi alır b componentine götürür
+
+-router veri taşıma url diyebiliriz(yönledirme işlemi için gerekli) npm i react-router-dom --save
+
+-package.json -->>>paketleri kuruldu.
+    "axios": "^1.7.2",
+    "i18next": "^21.9.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^11.18.6",
+    "react-router-dom": "^6.25.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
